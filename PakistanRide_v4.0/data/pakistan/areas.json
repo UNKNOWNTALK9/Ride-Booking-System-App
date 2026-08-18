@@ -1,0 +1,1364 @@
+[
+  {
+    "name": "Saddar, Lahore",
+    "province": "Punjab",
+    "city": "Lahore",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Lahore",
+    "province": "Punjab",
+    "city": "Lahore",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Lahore",
+    "province": "Punjab",
+    "city": "Lahore",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Rawalpindi",
+    "province": "Punjab",
+    "city": "Rawalpindi",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Rawalpindi",
+    "province": "Punjab",
+    "city": "Rawalpindi",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Rawalpindi",
+    "province": "Punjab",
+    "city": "Rawalpindi",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Faisalabad",
+    "province": "Punjab",
+    "city": "Faisalabad",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Faisalabad",
+    "province": "Punjab",
+    "city": "Faisalabad",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Faisalabad",
+    "province": "Punjab",
+    "city": "Faisalabad",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Multan",
+    "province": "Punjab",
+    "city": "Multan",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Multan",
+    "province": "Punjab",
+    "city": "Multan",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Multan",
+    "province": "Punjab",
+    "city": "Multan",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Gujranwala",
+    "province": "Punjab",
+    "city": "Gujranwala",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Gujranwala",
+    "province": "Punjab",
+    "city": "Gujranwala",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Gujranwala",
+    "province": "Punjab",
+    "city": "Gujranwala",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Sialkot",
+    "province": "Punjab",
+    "city": "Sialkot",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Sialkot",
+    "province": "Punjab",
+    "city": "Sialkot",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Sialkot",
+    "province": "Punjab",
+    "city": "Sialkot",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Bahawalpur",
+    "province": "Punjab",
+    "city": "Bahawalpur",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Bahawalpur",
+    "province": "Punjab",
+    "city": "Bahawalpur",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Bahawalpur",
+    "province": "Punjab",
+    "city": "Bahawalpur",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Sargodha",
+    "province": "Punjab",
+    "city": "Sargodha",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Sargodha",
+    "province": "Punjab",
+    "city": "Sargodha",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Sargodha",
+    "province": "Punjab",
+    "city": "Sargodha",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Gujrat",
+    "province": "Punjab",
+    "city": "Gujrat",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Gujrat",
+    "province": "Punjab",
+    "city": "Gujrat",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Gujrat",
+    "province": "Punjab",
+    "city": "Gujrat",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Jhelum",
+    "province": "Punjab",
+    "city": "Jhelum",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Jhelum",
+    "province": "Punjab",
+    "city": "Jhelum",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Jhelum",
+    "province": "Punjab",
+    "city": "Jhelum",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Sheikhupura",
+    "province": "Punjab",
+    "city": "Sheikhupura",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Sheikhupura",
+    "province": "Punjab",
+    "city": "Sheikhupura",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Sheikhupura",
+    "province": "Punjab",
+    "city": "Sheikhupura",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Kasur",
+    "province": "Punjab",
+    "city": "Kasur",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Kasur",
+    "province": "Punjab",
+    "city": "Kasur",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Kasur",
+    "province": "Punjab",
+    "city": "Kasur",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Okara",
+    "province": "Punjab",
+    "city": "Okara",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Okara",
+    "province": "Punjab",
+    "city": "Okara",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Okara",
+    "province": "Punjab",
+    "city": "Okara",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Sahiwal",
+    "province": "Punjab",
+    "city": "Sahiwal",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Sahiwal",
+    "province": "Punjab",
+    "city": "Sahiwal",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Sahiwal",
+    "province": "Punjab",
+    "city": "Sahiwal",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Rahim Yar Khan",
+    "province": "Punjab",
+    "city": "Rahim Yar Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Rahim Yar Khan",
+    "province": "Punjab",
+    "city": "Rahim Yar Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Rahim Yar Khan",
+    "province": "Punjab",
+    "city": "Rahim Yar Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Dera Ghazi Khan",
+    "province": "Punjab",
+    "city": "Dera Ghazi Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Dera Ghazi Khan",
+    "province": "Punjab",
+    "city": "Dera Ghazi Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Dera Ghazi Khan",
+    "province": "Punjab",
+    "city": "Dera Ghazi Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Muzaffargarh",
+    "province": "Punjab",
+    "city": "Muzaffargarh",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Muzaffargarh",
+    "province": "Punjab",
+    "city": "Muzaffargarh",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Muzaffargarh",
+    "province": "Punjab",
+    "city": "Muzaffargarh",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Khanewal",
+    "province": "Punjab",
+    "city": "Khanewal",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Khanewal",
+    "province": "Punjab",
+    "city": "Khanewal",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Khanewal",
+    "province": "Punjab",
+    "city": "Khanewal",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Vehari",
+    "province": "Punjab",
+    "city": "Vehari",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Vehari",
+    "province": "Punjab",
+    "city": "Vehari",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Vehari",
+    "province": "Punjab",
+    "city": "Vehari",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Attock",
+    "province": "Punjab",
+    "city": "Attock",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Attock",
+    "province": "Punjab",
+    "city": "Attock",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Attock",
+    "province": "Punjab",
+    "city": "Attock",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Chakwal",
+    "province": "Punjab",
+    "city": "Chakwal",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Chakwal",
+    "province": "Punjab",
+    "city": "Chakwal",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Chakwal",
+    "province": "Punjab",
+    "city": "Chakwal",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Mianwali",
+    "province": "Punjab",
+    "city": "Mianwali",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Mianwali",
+    "province": "Punjab",
+    "city": "Mianwali",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Mianwali",
+    "province": "Punjab",
+    "city": "Mianwali",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Bhakkar",
+    "province": "Punjab",
+    "city": "Bhakkar",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Bhakkar",
+    "province": "Punjab",
+    "city": "Bhakkar",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Bhakkar",
+    "province": "Punjab",
+    "city": "Bhakkar",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Layyah",
+    "province": "Punjab",
+    "city": "Layyah",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Layyah",
+    "province": "Punjab",
+    "city": "Layyah",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Layyah",
+    "province": "Punjab",
+    "city": "Layyah",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Chiniot",
+    "province": "Punjab",
+    "city": "Chiniot",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Chiniot",
+    "province": "Punjab",
+    "city": "Chiniot",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Chiniot",
+    "province": "Punjab",
+    "city": "Chiniot",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Hafizabad",
+    "province": "Punjab",
+    "city": "Hafizabad",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Hafizabad",
+    "province": "Punjab",
+    "city": "Hafizabad",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Hafizabad",
+    "province": "Punjab",
+    "city": "Hafizabad",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Narowal",
+    "province": "Punjab",
+    "city": "Narowal",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Narowal",
+    "province": "Punjab",
+    "city": "Narowal",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Narowal",
+    "province": "Punjab",
+    "city": "Narowal",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Pakpattan",
+    "province": "Punjab",
+    "city": "Pakpattan",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Pakpattan",
+    "province": "Punjab",
+    "city": "Pakpattan",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Pakpattan",
+    "province": "Punjab",
+    "city": "Pakpattan",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Bahawalnagar",
+    "province": "Punjab",
+    "city": "Bahawalnagar",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Bahawalnagar",
+    "province": "Punjab",
+    "city": "Bahawalnagar",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Bahawalnagar",
+    "province": "Punjab",
+    "city": "Bahawalnagar",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Rajanpur",
+    "province": "Punjab",
+    "city": "Rajanpur",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Rajanpur",
+    "province": "Punjab",
+    "city": "Rajanpur",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Rajanpur",
+    "province": "Punjab",
+    "city": "Rajanpur",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Khushab",
+    "province": "Punjab",
+    "city": "Khushab",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Khushab",
+    "province": "Punjab",
+    "city": "Khushab",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Khushab",
+    "province": "Punjab",
+    "city": "Khushab",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Mandi Bahauddin",
+    "province": "Punjab",
+    "city": "Mandi Bahauddin",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Mandi Bahauddin",
+    "province": "Punjab",
+    "city": "Mandi Bahauddin",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Mandi Bahauddin",
+    "province": "Punjab",
+    "city": "Mandi Bahauddin",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Karachi",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Karachi",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Karachi",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Hyderabad",
+    "province": "Sindh",
+    "city": "Hyderabad",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Hyderabad",
+    "province": "Sindh",
+    "city": "Hyderabad",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Hyderabad",
+    "province": "Sindh",
+    "city": "Hyderabad",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Sukkur",
+    "province": "Sindh",
+    "city": "Sukkur",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Sukkur",
+    "province": "Sindh",
+    "city": "Sukkur",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Sukkur",
+    "province": "Sindh",
+    "city": "Sukkur",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Larkana",
+    "province": "Sindh",
+    "city": "Larkana",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Larkana",
+    "province": "Sindh",
+    "city": "Larkana",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Larkana",
+    "province": "Sindh",
+    "city": "Larkana",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Mirpur Khas",
+    "province": "Sindh",
+    "city": "Mirpur Khas",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Mirpur Khas",
+    "province": "Sindh",
+    "city": "Mirpur Khas",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Mirpur Khas",
+    "province": "Sindh",
+    "city": "Mirpur Khas",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Nawabshah",
+    "province": "Sindh",
+    "city": "Nawabshah",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Nawabshah",
+    "province": "Sindh",
+    "city": "Nawabshah",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Nawabshah",
+    "province": "Sindh",
+    "city": "Nawabshah",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Thatta",
+    "province": "Sindh",
+    "city": "Thatta",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Thatta",
+    "province": "Sindh",
+    "city": "Thatta",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Thatta",
+    "province": "Sindh",
+    "city": "Thatta",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Badin",
+    "province": "Sindh",
+    "city": "Badin",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Badin",
+    "province": "Sindh",
+    "city": "Badin",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Badin",
+    "province": "Sindh",
+    "city": "Badin",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Dadu",
+    "province": "Sindh",
+    "city": "Dadu",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Dadu",
+    "province": "Sindh",
+    "city": "Dadu",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Dadu",
+    "province": "Sindh",
+    "city": "Dadu",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Jamshoro",
+    "province": "Sindh",
+    "city": "Jamshoro",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Jamshoro",
+    "province": "Sindh",
+    "city": "Jamshoro",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Jamshoro",
+    "province": "Sindh",
+    "city": "Jamshoro",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Matiari",
+    "province": "Sindh",
+    "city": "Matiari",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Matiari",
+    "province": "Sindh",
+    "city": "Matiari",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Matiari",
+    "province": "Sindh",
+    "city": "Matiari",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Tando Allahyar",
+    "province": "Sindh",
+    "city": "Tando Allahyar",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Tando Allahyar",
+    "province": "Sindh",
+    "city": "Tando Allahyar",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Tando Allahyar",
+    "province": "Sindh",
+    "city": "Tando Allahyar",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Tando Muhammad Khan",
+    "province": "Sindh",
+    "city": "Tando Muhammad Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Tando Muhammad Khan",
+    "province": "Sindh",
+    "city": "Tando Muhammad Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Tando Muhammad Khan",
+    "province": "Sindh",
+    "city": "Tando Muhammad Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Khairpur",
+    "province": "Sindh",
+    "city": "Khairpur",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Khairpur",
+    "province": "Sindh",
+    "city": "Khairpur",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Khairpur",
+    "province": "Sindh",
+    "city": "Khairpur",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Ghotki",
+    "province": "Sindh",
+    "city": "Ghotki",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Ghotki",
+    "province": "Sindh",
+    "city": "Ghotki",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Ghotki",
+    "province": "Sindh",
+    "city": "Ghotki",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Shikarpur",
+    "province": "Sindh",
+    "city": "Shikarpur",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Shikarpur",
+    "province": "Sindh",
+    "city": "Shikarpur",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Shikarpur",
+    "province": "Sindh",
+    "city": "Shikarpur",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Jacobabad",
+    "province": "Sindh",
+    "city": "Jacobabad",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Jacobabad",
+    "province": "Sindh",
+    "city": "Jacobabad",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Jacobabad",
+    "province": "Sindh",
+    "city": "Jacobabad",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Umerkot",
+    "province": "Sindh",
+    "city": "Umerkot",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Umerkot",
+    "province": "Sindh",
+    "city": "Umerkot",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Umerkot",
+    "province": "Sindh",
+    "city": "Umerkot",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Sanghar",
+    "province": "Sindh",
+    "city": "Sanghar",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Sanghar",
+    "province": "Sindh",
+    "city": "Sanghar",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Sanghar",
+    "province": "Sindh",
+    "city": "Sanghar",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Mithi",
+    "province": "Sindh",
+    "city": "Mithi",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Mithi",
+    "province": "Sindh",
+    "city": "Mithi",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Mithi",
+    "province": "Sindh",
+    "city": "Mithi",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Peshawar",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Peshawar",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Peshawar",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Peshawar",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Peshawar",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Peshawar",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Mardan",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mardan",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Mardan",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mardan",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Mardan",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mardan",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Abbottabad",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Abbottabad",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Abbottabad",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Abbottabad",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Abbottabad",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Abbottabad",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Mingora",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mingora",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Mingora",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mingora",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Mingora",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mingora",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Kohat",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Kohat",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Kohat",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Kohat",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Kohat",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Kohat",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Bannu",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Bannu",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Bannu",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Bannu",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Bannu",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Bannu",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Dera Ismail Khan",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Dera Ismail Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Dera Ismail Khan",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Dera Ismail Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Dera Ismail Khan",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Dera Ismail Khan",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Swabi",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Swabi",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Swabi",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Swabi",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Swabi",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Swabi",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Mansehra",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mansehra",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Mansehra",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mansehra",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Mansehra",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mansehra",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Quetta",
+    "province": "Balochistan",
+    "city": "Quetta",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Quetta",
+    "province": "Balochistan",
+    "city": "Quetta",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Quetta",
+    "province": "Balochistan",
+    "city": "Quetta",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Gwadar",
+    "province": "Balochistan",
+    "city": "Gwadar",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Gwadar",
+    "province": "Balochistan",
+    "city": "Gwadar",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Gwadar",
+    "province": "Balochistan",
+    "city": "Gwadar",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Turbat",
+    "province": "Balochistan",
+    "city": "Turbat",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Turbat",
+    "province": "Balochistan",
+    "city": "Turbat",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Turbat",
+    "province": "Balochistan",
+    "city": "Turbat",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Khuzdar",
+    "province": "Balochistan",
+    "city": "Khuzdar",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Khuzdar",
+    "province": "Balochistan",
+    "city": "Khuzdar",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Khuzdar",
+    "province": "Balochistan",
+    "city": "Khuzdar",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Chaman",
+    "province": "Balochistan",
+    "city": "Chaman",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Chaman",
+    "province": "Balochistan",
+    "city": "Chaman",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Chaman",
+    "province": "Balochistan",
+    "city": "Chaman",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Sibi",
+    "province": "Balochistan",
+    "city": "Sibi",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Sibi",
+    "province": "Balochistan",
+    "city": "Sibi",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Sibi",
+    "province": "Balochistan",
+    "city": "Sibi",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Islamabad",
+    "province": "Islamabad Capital Territory",
+    "city": "Islamabad",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Islamabad",
+    "province": "Islamabad Capital Territory",
+    "city": "Islamabad",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Islamabad",
+    "province": "Islamabad Capital Territory",
+    "city": "Islamabad",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Muzaffarabad",
+    "province": "Azad Jammu & Kashmir",
+    "city": "Muzaffarabad",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Muzaffarabad",
+    "province": "Azad Jammu & Kashmir",
+    "city": "Muzaffarabad",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Muzaffarabad",
+    "province": "Azad Jammu & Kashmir",
+    "city": "Muzaffarabad",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Mirpur",
+    "province": "Azad Jammu & Kashmir",
+    "city": "Mirpur",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Mirpur",
+    "province": "Azad Jammu & Kashmir",
+    "city": "Mirpur",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Mirpur",
+    "province": "Azad Jammu & Kashmir",
+    "city": "Mirpur",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Gilgit",
+    "province": "Gilgit-Baltistan",
+    "city": "Gilgit",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Gilgit",
+    "province": "Gilgit-Baltistan",
+    "city": "Gilgit",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Gilgit",
+    "province": "Gilgit-Baltistan",
+    "city": "Gilgit",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Skardu",
+    "province": "Gilgit-Baltistan",
+    "city": "Skardu",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Skardu",
+    "province": "Gilgit-Baltistan",
+    "city": "Skardu",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Skardu",
+    "province": "Gilgit-Baltistan",
+    "city": "Skardu",
+    "category": "Area"
+  },
+  {
+    "name": "Saddar, Hunza",
+    "province": "Gilgit-Baltistan",
+    "city": "Hunza",
+    "category": "Area"
+  },
+  {
+    "name": "Cantt, Hunza",
+    "province": "Gilgit-Baltistan",
+    "city": "Hunza",
+    "category": "Area"
+  },
+  {
+    "name": "Main Bazaar, Hunza",
+    "province": "Gilgit-Baltistan",
+    "city": "Hunza",
+    "category": "Area"
+  },
+  {
+    "name": "Clifton, Karachi",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "Area"
+  },
+  {
+    "name": "DHA Karachi",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "Area"
+  },
+  {
+    "name": "Gulshan-e-Iqbal, Karachi",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "Area"
+  },
+  {
+    "name": "Latifabad Unit 7, Hyderabad",
+    "province": "Sindh",
+    "city": "Hyderabad",
+    "category": "Area"
+  },
+  {
+    "name": "Qasimabad, Hyderabad",
+    "province": "Sindh",
+    "city": "Hyderabad",
+    "category": "Area"
+  },
+  {
+    "name": "DHA Lahore",
+    "province": "Punjab",
+    "city": "Lahore",
+    "category": "Area"
+  },
+  {
+    "name": "Bahria Town Lahore",
+    "province": "Punjab",
+    "city": "Lahore",
+    "category": "Area"
+  },
+  {
+    "name": "Gulberg Lahore",
+    "province": "Punjab",
+    "city": "Lahore",
+    "category": "Area"
+  }
+]

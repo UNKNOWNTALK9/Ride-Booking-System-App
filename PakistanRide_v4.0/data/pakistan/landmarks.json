@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Karachi Airport",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "Airport"
+  },
+  {
+    "name": "Hyderabad Railway Station",
+    "province": "Sindh",
+    "city": "Hyderabad",
+    "category": "Railway Station"
+  },
+  {
+    "name": "Jinnah Hospital Karachi",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "Hospital"
+  },
+  {
+    "name": "University of Karachi",
+    "province": "Sindh",
+    "city": "Karachi",
+    "category": "University"
+  },
+  {
+    "name": "Allama Iqbal International Airport",
+    "province": "Punjab",
+    "city": "Lahore",
+    "category": "Airport"
+  },
+  {
+    "name": "Badshahi Mosque",
+    "province": "Punjab",
+    "city": "Lahore",
+    "category": "Tourist Destination"
+  },
+  {
+    "name": "Faisal Mosque",
+    "province": "Islamabad Capital Territory",
+    "city": "Islamabad",
+    "category": "Tourist Destination"
+  },
+  {
+    "name": "Skardu Airport",
+    "province": "Gilgit-Baltistan",
+    "city": "Skardu",
+    "category": "Airport"
+  },
+  {
+    "name": "Hunza",
+    "province": "Gilgit-Baltistan",
+    "city": "Hunza",
+    "category": "Tourist Destination"
+  }
+]
