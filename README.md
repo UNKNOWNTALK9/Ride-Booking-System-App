@@ -123,29 +123,6 @@ A basic fare calculation can follow this formula:
 
 Additional adjustments may apply according to the implemented ride types and historical-data logic.
 
-## 📂 Project Structure
-
-The following is an example structure. Adjust it to match your actual files.
-
-```text
-Pakistan-Ride/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-│
-├── modules/
-│   ├── map_manager.py
-│   ├── fare_prediction.py
-│   ├── distance_calculator.py
-│   ├── booking_manager.py
-│   └── authentication.py
-│
-├── database/
-├── assets/
-└── .venv/
-```
-
 ## 🌐 Internet and Mapping
 
 OpenStreetMap tiles and geocoding services normally require an internet connection. Offline map functionality depends on the availability and configuration of a suitable tile database.
